@@ -9,6 +9,7 @@ export default class Login extends Component {
         <a href="/register/index.html">resister</a>
         <br />
         <a href="/">home</a>
+        <div>2312312312</div>
       </div>
     )
   }

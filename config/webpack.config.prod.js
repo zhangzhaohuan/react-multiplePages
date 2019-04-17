@@ -62,7 +62,6 @@ module.exports = {
       require.resolve('babel-polyfill'),
       require.resolve('react-dev-utils/webpackHotDevClient'),
       path.resolve(paths.appSrc,"index.js"),
-   
     ],
     login: [
       require.resolve('./polyfills'),
